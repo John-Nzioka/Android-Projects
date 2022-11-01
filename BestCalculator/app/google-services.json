@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "104966493900",
+    "project_id": "bestcalculator69",
+    "storage_bucket": "bestcalculator69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104966493900:android:717874d495f4eed3915469",
+        "android_client_info": {
+          "package_name": "com.example.bestcalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104966493900-0s26mgbkbr53rhr2t2egpfitk3bcvtip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdbE-SQaSembpIbjWQo6Zs15BVAaRNFlI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104966493900-0s26mgbkbr53rhr2t2egpfitk3bcvtip.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
